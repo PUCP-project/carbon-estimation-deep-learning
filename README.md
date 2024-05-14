@@ -1,2 +1,2 @@
-# carbon-estimation-deep-learning
-{Carbon Stock Estimation in Agricultural and Livestock Landscapes
+# Carbon Stock Estimation - Deep Learning
+Carbon Stock Estimation in Agricultural and Livestock Landscapes
